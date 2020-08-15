@@ -12,3 +12,4 @@ while i <= 100:
     print("*", end='')
     i += 1
 
+print("\nit worked i did my first github")
