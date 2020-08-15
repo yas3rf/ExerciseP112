@@ -1,0 +1,12 @@
+num1 = int(input("Enter First Number: "))
+num2 = int(input("Enter Second Number: "))
+Sum = num1 + num2
+Sub = num1 - num2
+Mul = num1 * num2
+Div = num1 / num2
+Mod = num1 % num2
+print(str(num1) + " + " + str(num2) + " = " + str(Sum))
+print(str(num1) + " - " + str(num2) + " = " + str(Sub))
+print(str(num1) + " * " + str(num2) + " = " + str(Mul))
+print(str(num1) + " / " + str(num2) + " = " + str(Div))
+print(str(num1) + " % " + str(num2) + " = " + str(Mod))

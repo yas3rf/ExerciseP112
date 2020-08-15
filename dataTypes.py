@@ -1,0 +1,15 @@
+num = int(input("Enter an Integer Value: "))
+amt = float(input("Enter a Float Value: "))
+pi = float(input("Enter The Pi Value: "))
+code = str(input("Enter Your Code: "))
+population_of_india = int(input("Enter Population Of India: "))
+msg = str(input("Enter Your Message: "))
+#print("Num= " + str(num), str(type(num)) + "\namt= " + str(amt), str(type(amt)) + "\npi= " + str(pi), str(type(pi)) + "\ncode= " + str(code), type(code) + "\nPopulaton of india is: " +
+ #     str(population_of_india), str(type(population_of_india)) + "\nmsg= " + str(msg), str(type(msg)))
+
+print("Num= " + str(num) + "\ttype: " + str(type(num)))
+print("Amt= " + str(amt) + "\ttype: " + str(type(amt)))
+print("Pi= " + str(pi) + "\ttype: " + str(type(pi)))
+print("Code= " + str(code) + "\ttype: " + str(type(code)))
+print("Population 0f India= " + str(num) + "\ttype: " + str(type(population_of_india)))
+print("Msg= " + str(msg) + "\ttype: " + str(type(msg)))
